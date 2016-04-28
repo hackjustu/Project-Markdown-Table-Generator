@@ -1,55 +1,55 @@
-{
-   "projects":[
-      {
+{  
+   "projects":[  
+      {  
          "name":"wukong",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/wukong",
          "team":"BJGX(白驹过隙)",
          "description":"Platform for BitTiger",
-         "stack":[
+         "stack":[  
             "nodejs",
             "angular",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"Crawler-bitTiger",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Crawler-bitTiger",
          "team":"BJGX(白驹过隙)",
          "description":"Crawler for wukong",
-         "stack":[
+         "stack":[  
             "nodejs"
          ]
       },
-      {
+      {  
          "name":"美食爬虫和搜索",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Pikachu",
          "team":"Pikachu",
          "description":"菜谱搜索",
-         "stack":[
+         "stack":[  
             "nodejs",
             "angular",
             "mongodb",
             "cordova"
          ]
       },
-      {
+      {  
          "name":"Mongoose MovieWishList Generator",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Mongoose-MovieWishList-Generator",
          "team":"Mongoose",
          "description":"TMDb movie recommender",
-         "stack":[
+         "stack":[  
             "ruby_on_rails",
             "javascript",
             "react",
@@ -57,108 +57,108 @@
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"FalconCrawler",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/FalconCrawler",
          "team":"Fighting Falcon",
          "description":"Zhihu & StackOverflow crawler",
-         "stack":[
+         "stack":[  
             "nodejs",
             "angular"
          ]
       },
-      {
+      {  
          "name":"MEANTaurus",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/MEANTaurus",
          "team":"Fighting Falcon",
          "description":"Lean Amazon clone",
-         "stack":[
+         "stack":[  
             "nodejs",
             "angular",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"Lab Document System",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/LabDocumentSystem",
          "team":"Sly pyhton",
          "description":"Lab document system",
-         "stack":[
+         "stack":[  
             "nodejs",
             "angular",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"MonkeyKing Crawler Recommender",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/MonkeyKing_crawler_recommender",
          "team":"MonkeyKing01",
          "description":"Xiaomi app store crawler",
-         "stack":[
+         "stack":[  
             "python",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"Kungfu Panda AppStore",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Kungfu_Panda_AppStore",
          "team":"Gungfu_Panda",
          "description":"Huawei app store crawler",
-         "stack":[
+         "stack":[  
             "python",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"Gloomy Bear Financial Crawler",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Gloomy-Bear-FinancialCrawler",
          "team":"Gloomy Bear",
-         "description":"Financical information Crawler",
-         "stack":[
+         "description":"Financial information Crawler",
+         "stack":[  
             "python",
             "reddis",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"Zeus",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Zeus",
          "team":"cc13ny ",
          "description":"Chat application",
-         "stack":[
+         "stack":[  
             "meteor"
          ]
       },
-      {
+      {  
          "name":"GamesStore Website in Java",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/GamesStore---Website-in-Java",
          "team":"Totoro",
          "description":"Website platform for trading/selling games",
-         "stack":[
+         "stack":[  
             "java",
             "spring_mvc",
             "angular",
@@ -166,91 +166,91 @@
             "jquery"
          ]
       },
-      {
+      {  
          "name":"Catshark",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Catshark",
          "team":"Catshark",
          "description":"Chat application",
-         "stack":[
+         "stack":[  
             "python",
             "flask"
          ]
       },
-      {
+      {  
          "name":"Appstore by React",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/RealMonkeyKing",
          "team":"RealMonkeyKing",
          "description":"App store",
-         "stack":[
+         "stack":[  
             "python",
             "react"
          ]
       },
-      {
+      {  
          "name":"AndroidChat",
-         "category":[
+         "category":[  
             "mobile"
          ],
          "project_url":"https://github.com/BitTigerInst/AndroidChat",
          "team":"MonkeyBOOM",
          "description":"Chat application",
-         "stack":[
+         "stack":[  
             "android",
             "firebase"
          ]
       },
-      {
+      {  
          "name":"Empachat",
-         "category":[
+         "category":[  
             "full stack"
          ],
          "project_url":"https://github.com/BitTigerInst/Empachat",
          "team":"HomoSapiens",
          "description":"Empathetic chat",
-         "stack":[
+         "stack":[  
             "meteor",
             "mongodb"
          ]
       },
-      {
+      {  
          "name":"calabashCat",
-         "category":[
+         "category":[  
             "mobile"
          ],
          "project_url":"https://github.com/BitTigerInst/calabashCat",
          "team":"calabashCat",
          "description":"Chat application",
-         "stack":[
+         "stack":[  
             "android"
          ]
       },
-      {
+      {  
          "name":"Bigdata Analysis",
-         "category":[
+         "category":[  
             "big data"
          ],
          "project_url":"https://github.com/BitTigerInst/bigdata_analysis",
          "team":"Amazing Gabear",
          "description":"Practicing Spark",
-         "stack":[
+         "stack":[  
             "spark"
          ]
       },
-      {
+      {  
          "name":"Twitter Analytics Web Service",
-         "category":[
+         "category":[  
             "big data"
          ],
          "project_url":"https://github.com/BitTigerInst/TwitterAnalytics",
          "team":"Octupus",
          "description":"Twitter data analysis",
-         "stack":[
+         "stack":[  
             "java",
             "tomcat",
             "python",
